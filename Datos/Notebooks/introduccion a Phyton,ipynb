@@ -1,0 +1,16 @@
+print ("Hola, mundo!")
+# Declarar una variable de tipo entero
+edad = 25
+print(edad)
+
+# Declarar una variable de tipo flotante
+estatura_en_metros = 1.5
+print(estatura_en_metros)
+
+# Declarar una variable de tipo cadena de texto
+nombre = "Maria"
+print(nombre)
+
+# Declarar una variable de tipo booleano
+es_mayor_de_edad = True
+print(es_mayor_de_edad)
